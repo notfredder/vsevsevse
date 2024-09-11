@@ -10,3 +10,7 @@ Flask инструкция - https://docs.google.com/document/d/1fTbC6Er7xbPqw68
 Всякий текст и код - https://docs.google.com/document/d/1MG8omF_G5fn2-to9ZZen_rkImBkU6I3S47i0kXXsTHg/edit?usp=sharing
 
 кк - https://t.me/c/1940888921/2/986
+
+
+презентация ред ос - https://docs.google.com/presentation/d/1kdJnbmamVEqPRBSbDyk4zWtm1h6kCBt5/edit?usp=drivesdk&ouid=102784257100608916798&rtpof=true&sd=true
+
