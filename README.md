@@ -14,3 +14,5 @@ Flask инструкция - https://docs.google.com/document/d/1fTbC6Er7xbPqw68
 
 презентация ред ос - https://docs.google.com/presentation/d/1kdJnbmamVEqPRBSbDyk4zWtm1h6kCBt5/edit?usp=drivesdk&ouid=102784257100608916798&rtpof=true&sd=true
 
+База данных - https://docs.google.com/document/d/152MMR8ezyXxpHQYhvhUJzu2nyYaAtkpsHVRw-XV36Pg/edit?usp=sharing
+
