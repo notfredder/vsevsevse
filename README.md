@@ -16,3 +16,5 @@ Flask инструкция - https://docs.google.com/document/d/1fTbC6Er7xbPqw68
 
 База данных - https://docs.google.com/document/d/152MMR8ezyXxpHQYhvhUJzu2nyYaAtkpsHVRw-XV36Pg/edit?usp=sharing
 
+htdocx - https://drive.google.com/drive/folders/1AZ3U0vLYFY0urVZBam9c7AdajJivWEt_?usp=sharing
+
