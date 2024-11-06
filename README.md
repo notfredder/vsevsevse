@@ -1,4 +1,11 @@
-# vsevsevse
+## новое
+презентация дем экзамена - https://docs.google.com/presentation/d/1kdJnbmamVEqPRBSbDyk4zWtm1h6kCBt5/edit?usp=drivesdk&ouid=102784257100608916798&rtpof=true&sd=true
+
+База данных - https://docs.google.com/document/d/152MMR8ezyXxpHQYhvhUJzu2nyYaAtkpsHVRw-XV36Pg/edit?usp=sharing
+
+htdocx - https://drive.google.com/drive/folders/1AZ3U0vLYFY0urVZBam9c7AdajJivWEt_?usp=sharing
+
+## старое
 
 коллаб - **https://colab.research.google.com/drive/1EIssUjCuD-aRcKggjkb40ENcBVUbnMvJ?usp=sharing**
 
@@ -12,9 +19,4 @@ Flask инструкция - https://docs.google.com/document/d/1fTbC6Er7xbPqw68
 кк - https://t.me/c/1940888921/2/986
 
 
-презентация ред ос - https://docs.google.com/presentation/d/1kdJnbmamVEqPRBSbDyk4zWtm1h6kCBt5/edit?usp=drivesdk&ouid=102784257100608916798&rtpof=true&sd=true
-
-База данных - https://docs.google.com/document/d/152MMR8ezyXxpHQYhvhUJzu2nyYaAtkpsHVRw-XV36Pg/edit?usp=sharing
-
-htdocx - https://drive.google.com/drive/folders/1AZ3U0vLYFY0urVZBam9c7AdajJivWEt_?usp=sharing
 
